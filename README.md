@@ -1,4 +1,4 @@
 infra
 =====
 
-INfuanfu Rapid Accelerator
+INFuanfu Rapid Accelerator
